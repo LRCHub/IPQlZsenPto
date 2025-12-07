@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dance The Night Away",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-07T14:06:15.463314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dance the Night Away",
+      "artist": "Mavericks",
+      "has_synced": true,
+      "path": "select/01_Dance_the_Night_Away_Mavericks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance the Night Away",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_Dance_the_Night_Away_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dance the Night Away",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/03_Dance_the_Night_Away_Europe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_Dance_The_Night_Away_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Mavericks",
+      "has_synced": true,
+      "path": "select/05_Dance_The_Night_Away_Mavericks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dance the Night Away",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_Dance_the_Night_Away_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/07_Dance_The_Night_Away_Twice.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dance the Night Away",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/08_Dance_the_Night_Away_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/09_Dance_The_Night_Away_Cream.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/10_Dance_The_Night_Away_Europe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/11_Dance_The_Night_Away_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "The Mavericks",
+      "has_synced": true,
+      "path": "select/12_Dance_The_Night_Away_The_Mavericks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/13_Dance_The_Night_Away_Europe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/14_Dance_The_Night_Away_Santana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/15_Dance_The_Night_Away_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "Mavericks",
+      "has_synced": true,
+      "path": "select/16_Dance_The_Night_Away_Mavericks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dance The Night Away",
+      "artist": "The Mavericks",
+      "has_synced": true,
+      "path": "select/17_Dance_The_Night_Away_The_Mavericks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance The Night Away",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_The_Night_Away_TWICE.txt"
+    }
+  ]
+}
